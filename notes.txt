@@ -1,0 +1,101 @@
+// Pictures on Google, facebook, Yelp, or Instagram
+
+
+// Minimalistic
+
+// Hair By
+// Francisco - on mobile
+
+
+// Already clients, what are their needs?
+// phone number, location, hours, 
+
+// Prospective clients, their needs?
+// need to be sold, mainly by photos and services sections
+
+
+// Sticky Nav have 
+
+top - stuff above the fold. 
+	// 'Hair by francisco'
+	// phone number
+	// by appt only
+	a great photo. Have the photo crop well, not just resize
+
+services - services he offers
+
+// photos - photos from yelp, fb, instagram, or google
+
+// contact - 
+// phone number
+// linked location
+// business hours
+// icon links to yelp, fb, instagram and google
+
+Highlight the link on the nav of where the user currently is (like semantic does as you scroll through their docs)
+
+// Use flexbox
+
+
+
+// Business hours
+// Yelp, fb, Instagram, Google logos at the bottom?
+// 15909 San Pedro Ave, San Antonio, TX 78232
+// Phone number near the top
+// By appointment only
+// If salon is still open, bold that day. If it's past 7 and the store is closed, increment by one and bold the next day
+
+
+consider using this for instagram?
+https://www.instagram.com/explore/tags/hairbyfrancisco/
+
+
+// have Francisco
+fix website link on fb
+ask whether francisco owns hairdesignbyfrancisco.com
+// Hairdesignbyfrancisco vs http://hair-by-francisco.business.site
+delete this account https://www.instagram.com/hairbyfrancisco/
+// is it open til 7:00 pm or 7:30? fb says 7, yelp says 7:30
+// yelp says it's NOT by appt only
+// sola salons says you're open on monday
+// locality lists prices. remove?
+
+
+Local hairstylist. All types of hair cuts, hair dye, hair styles and much more...
+San Antonio's Hair By Francisco is a prime spot for gentleman of all ages to get trims, cuts, and shaves. This salon offers a wide variety of hair care treatments for both men and women.
+Pamper yourself and your hair with a relaxing hair care service from San Antonio's Hair By Francisco. This salon is readily available to handle all of your hair care needs. No appointment, no problem. This modern beauty establishment happily accepts walk-in customers. Hair By Francisco welcomes your beauty appointments to the 21st-century. Pay with any major credit card, no cash needed! With a parking lot adjacent to Hair By Francisco, you won't get stuck circling the block. Make use of the safe and efficient bike parking at this salon. Whatever your preferred cut, color, or style, Hair By Francisco will treat your hair like royalty.
+After years of frequently visiting San Antonio to visit family and friends, Francisco Mejia decided to bring Hair by Francisco from California to Texas to pursue his artistic hair endeavors.
+Specializing in up do's, color, highlights and styles for women, men and kids alike.
+100% Satisfaction Guaranteed!!!!!
+Luxurious
+Hair salon
+color, highlights, cuts
+
+
+Men, women, and children's haircuts, color and highlights, trims and shaves, all kinds of styles, and up do. 
+
+San Antonio's Hair By Francisco is a prime spot for gentleman of all ages to get trims, cuts, and shaves. This salon offers a wide variety of hair care treatments for men and women and children. Whatever your preferred cut, color, or style, Hair By Francisco will treat your hair like royalty. 
+
+Francisco Mejia is an extremely talented, local hairstylist working out of the luxurious, Sola Salon Studios. It is rare to find a business with such a high rating on Yelp, and this is certainly for a reason.  Clients of Francisco return due to his creative vision, his amazing ability to give people the right haircut/style/color, his attention to detail, and his fair prices. 
+
+From downtown, west and east Los Angeles, The Chris McMillan Salon is known as one of the very best luxury hair salons in the city. Our original salon in Burton Way is the place to find some of the few hairdressers and colorists recognized as “Best of Beauty Award Winners” by the beauty experts of Allure Magazine.
+Established in April 2002, Chris McMillan The Salon is the original boutique, luxury California hairdressers, which has and keeps changing the face of the hair salons in the city, from clinical, functional places, into cozy, friendly havens...
+
+Men and Women's haircuts, color and highlights, blow-dry, Brazilian Blowout, keratin treatments, extensions services (individual-Great Lengths, sew-in wefts), wedding styles and up do.
+
+// style guide
+
+// Find a good font pairing
+// Have the modular fonts already set in the CSS
+
+// I think color should be blue maybe
+
+// on mouseenter of the icon div, lower opacity of all of them
+// on hover of a specific icon, increase opacity back to normal
+
+// Have alternating divs "blackSection" or "otherColorSection". Have the widths be 100% and the colors be the colors be the colors
+// Have body and html have margin and padding 0
+// Have the first section have id first
+// Have the last section have id last
+// Have all the divs inside the sections
+// Have those psychological vertical lines drawn by keeping a lot of the margins the same
