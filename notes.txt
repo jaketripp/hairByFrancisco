@@ -16,10 +16,10 @@
 
 // Sticky Nav have 
 
-increase font size for #mainImage info, services, about, contact, and footer
-landscape its wonky for some reason, maybe media query?
-make the font modular thing different. golden ratio is too high a ratio
-the hair by francisco thing looks great on the phone
+// increase font size for #mainImage info, services, about, contact, and footer
+// landscape its wonky for some reason, maybe media query?
+// make the font modular thing different. golden ratio is too high a ratio
+// the hair by francisco thing looks great on the phone
 
 // top - stuff above the fold. 
 	// 'Hair by francisco'
@@ -37,7 +37,6 @@ the hair by francisco thing looks great on the phone
 // business hours
 // icon links to yelp, fb, instagram and google
 
-Highlight the link on the nav of where the user currently is (like semantic does as you scroll through their docs)
 
 // Use flexbox
 
