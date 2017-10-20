@@ -5,7 +5,7 @@ body {
 }
 
 html {
-	font-size: 0.3em;
+	font-size: 6px;
 }
 
 body {
@@ -14,8 +14,8 @@ body {
 	line-height: 1.45;
 	color: white;
 	text-align: center;
-	overflow-x: hidden;
-}
+/*	overflow-x: hidden;
+*/}
 
 p {
 	margin-bottom: 1.3em;
@@ -32,7 +32,7 @@ h1 {
 	font-family: 'Michroma', sans-serif;
 	letter-spacing: 5px;
 	margin: 20px auto 0;
-	max-width: 80%;
+	max-width: 90%;
 }
 
 h2 {
@@ -94,8 +94,12 @@ a {
 }
 
 #mainImage img {
-	width: 33.333%;
+	width: 100%;
 	margin: 0;
+}
+
+#mainImage img:nth-of-type(2), #mainImage img:nth-of-type(3) {
+	display: none;
 }
 
 #info {
@@ -221,43 +225,42 @@ footer p a:hover {
 
 @media only screen and (min-width: 400px) {
 	html {
-		font-size: 0.4em;
+		font-size: 6.4px;
 	}
 }
 
 @media only screen and (min-width: 550px) {
 	html {
-		font-size: 0.5em;
+		font-size: 8px;
 	}
 }
 
 @media only screen and (min-width: 700px) {
 	html {
-		font-size: 0.6em;
+		font-size: 9.6px;
 	}
 }
 
 @media only screen and (min-width: 1000px) {
 	html {
-		font-size: 0.625em;
+		font-size: 10px;
 	}
 }
 
-@media only screen and (max-width: 700px) {
-	#mainImage img:nth-oftype(3) {
-		display: none;
+@media only screen and (min-width: 500px) {
+	#mainImage img:nth-of-type(2) {
+		display: block;
 	}
 	#mainImage img {
 		width: 50%;
 	}
 }
 
-@media only screen and (max-width: 500px) {
-	#mainImage img:nth-of-type(2),
-	#mainImage img:nth-of-type(3) {
-		display: none;
+@media only screen and (min-width: 700px) {
+	#mainImage img:nth-of-type(2), #mainImage img:nth-of-type(3) {
+		display: block;
 	}
 	#mainImage img {
-		width: 100%;
+		width: 33.333%;
 	}
 }

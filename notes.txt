@@ -21,11 +21,11 @@ landscape its wonky for some reason, maybe media query?
 make the font modular thing different. golden ratio is too high a ratio
 the hair by francisco thing looks great on the phone
 
-top - stuff above the fold. 
+// top - stuff above the fold. 
 	// 'Hair by francisco'
 	// phone number
 	// by appt only
-	a great photo. Have the photo crop well, not just resize
+	// a great photo. Have the photo crop well, not just resize
 
 // services - services he offers
 
