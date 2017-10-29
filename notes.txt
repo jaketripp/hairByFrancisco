@@ -63,6 +63,7 @@ delete this account https://www.instagram.com/hairbyfrancisco/
 // yelp says it's NOT by appt only
 // sola salons says you're open on monday
 // locality lists prices. remove?
+// check about section, services section, and description section. See if he likes them?
 
 
 Local hairstylist. All types of hair cuts, hair dye, hair styles and much more...
