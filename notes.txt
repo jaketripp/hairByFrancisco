@@ -50,36 +50,20 @@
 // If salon is still open, bold that day. If it's past 7 and the store is closed, increment by one and bold the next day
 
 
-consider using this for instagram?
-https://www.instagram.com/explore/tags/hairbyfrancisco/
-
-
 // have Francisco
 fix website link on fb
 ask whether francisco owns hairdesignbyfrancisco.com
 // Hairdesignbyfrancisco vs http://hair-by-francisco.business.site
 delete this account https://www.instagram.com/hairbyfrancisco/
-// is it open til 7:00 pm or 7:30? fb says 7, yelp says 7:30
-// yelp says it's NOT by appt only
-// sola salons says you're open on monday
-// locality lists prices. remove?
 // check about section, services section, and description section. See if he likes them?
 
-
-Local hairstylist. All types of hair cuts, hair dye, hair styles and much more...
-San Antonio's Hair By Francisco is a prime spot for gentleman of all ages to get trims, cuts, and shaves. This salon offers a wide variety of hair care treatments for both men and women.
-Pamper yourself and your hair with a relaxing hair care service from San Antonio's Hair By Francisco. This salon is readily available to handle all of your hair care needs. No appointment, no problem. This modern beauty establishment happily accepts walk-in customers. Hair By Francisco welcomes your beauty appointments to the 21st-century. Pay with any major credit card, no cash needed! With a parking lot adjacent to Hair By Francisco, you won't get stuck circling the block. Make use of the safe and efficient bike parking at this salon. Whatever your preferred cut, color, or style, Hair By Francisco will treat your hair like royalty.
-After years of frequently visiting San Antonio to visit family and friends, Francisco Mejia decided to bring Hair by Francisco from California to Texas to pursue his artistic hair endeavors.
-Specializing in up do's, color, highlights and styles for women, men and kids alike.
-100% Satisfaction Guaranteed!!!!!
-Luxurious
-Hair salon
-color, highlights, cuts
+// yelp says it's NOT by appt only
+// locality lists prices. remove?
+// sola salons says you're open on monday
+// is it open til 7:00 pm or 7:30? fb says 7, yelp says 7:30
 
 
-Men, women, and children's haircuts, color and highlights, trims and shaves, all kinds of styles, and up do. 
 
-Francisco Mejia is an extremely talented, local hairstylist working out of the luxurious, Sola Salon Studios. It is rare to find a business with such a high rating on Yelp, and this is certainly for a reason.  Clients of Francisco return due to his creative vision, his amazing ability to give people the right haircut/style/color, his attention to detail, and his fair prices. 
 
 // style guide
 
